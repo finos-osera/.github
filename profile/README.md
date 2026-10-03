@@ -56,7 +56,7 @@ OSERA (FINOS)
 
 ### Hardened Open Source Projects library
 
-Public repositories in `[finos-osera-forks](https://github.com/orgs/finos-osera-forks)` hold the maintained source for lines the sector still runs, often past upstream end of life. Naming, branches, release metadata and attestations follow standards defined by our Members at [standards.osera.finos.org](standards.osera.finos.org).
+Public repositories in [finos-osera-forks](https://github.com/orgs/finos-osera-forks] hold the maintained source for lines the sector still runs, often past upstream end of life. Naming, branches, release metadata and attestations follow standards defined by our Members at [standards.osera.finos.org](standards.osera.finos.org).
 
 Source is public by default. Built, participant-ready artifacts are delivered through formation participation. Browse the org, or start from the lines already piloted on [osera.finos.org](https://osera.finos.org).
 
